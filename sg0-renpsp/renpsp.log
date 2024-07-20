@@ -1,0 +1,458 @@
+loading font lucida_w from umd0:/renpsp/fonts/lucida_white.png
+ENGINE.curgamepath = umd0:/games/sg0-renpsp/game
+UNLOADING FALLING MENU DATA AND GAME WIDGETS (LPE ONLY)
+Reloading from path: umd0:/games/sg0-renpsp/skin
+loading font custom from umd0:/games/sg0-renpsp/skin/customfont.png
+Processing SCRIPT.RPY...
+loading background img credit from umd0:/games/sg0-renpsp/game/images/credit/0.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/credit/0.png
+loading background img credit0 from umd0:/games/sg0-renpsp/game/images/credit/1.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/credit/1.png
+loading background img credit1 from umd0:/games/sg0-renpsp/game/images/credit/2.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/credit/2.png
+loading background img credit2 from umd0:/games/sg0-renpsp/game/images/credit/3.png
+starting game/sounds/start2.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/credit/3.png
+loading background img menu from umd0:/games/sg0-renpsp/game/title.png
+starting game/sounds/messenger.mp3 (mp3) at 0
+stopping mp3 at 0
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/title.png
+loading background ch0 bg1 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/BGc.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/BGc.png
+loading background ch0 ev1 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/EV_X09A.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/EV_X09A.png
+loading background ch0 bg2 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/BGd.png
+loading character nakabachi from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/naka.png
+loading character kurisu from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/FGa.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/BGd.png
+loading background ch0 ev2 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/EV_C11A.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/EV_C11A.png
+loading background ch0 ev2a from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/EV_C11B.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/transition.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/EV_C11B.png
+loading background ch0 tr1 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/tr1.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/tr1.png
+loading background ch0 tr2 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/tr2.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/tr2.png
+loading background ch0 tr3 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/tr3.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/tr3.png
+loading background ch0 tr4 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/tr4.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/tr4.png
+loading background ch0 wake from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/wake.png
+starting game/sounds/chapters/ch0-prologue/bgm24.ogg (ogg) at 0
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/wake.png
+loading background ch0 bg3 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/BGe.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/daru/whoa-hesback.wav (wav) at 1
+loading character daru from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/daru/1.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/okarin.wav (wav) at 1
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/2.png
+Clearing ch0a (LPE ONLY)
+loading character daru from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/daru/0.png
+Clearing ch0b (LPE ONLY)
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/0.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/okarin!.wav (wav) at 1
+Clearing ch0 (LPE ONLY)
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/FGb.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/daru/coveredinblood.wav (wav) at 1
+Clearing ch0 (LPE ONLY)
+loading character daru from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/daru/2.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/BGe.png
+loading background suzuha ch0b from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGe.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/towelplz.wav (wav) at 1
+loading character daru from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/daru/0.png
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/FGb.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGe.png
+loading background suzuha ch0 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGc.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/daru/wut.wav (wav) at 1
+loading character daru from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/daru/2.png
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/FGb.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGc.png
+loading background suzuha ch0b from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGe.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/quick!.wav (wav) at 1
+loading character daru from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/daru/0.png
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/FGb.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGe.png
+loading background suzuha ch0 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGc.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/daru/ok.wav (wav) at 1
+loading character daru from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/daru/3.png
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/FGb.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/daru/closedoor.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/dontdie.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGc.png
+loading background suzuha ch0a from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGd.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/noworries.wav (wav) at 1
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/FGb.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGd.png
+loading background suzuha ch0 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGc.png
+loading character mayuri from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/FGb.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGc.png
+loading background ch0 ev3 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/SG0_EV001a.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/notworking.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/ha_haha.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/itsthesame.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/nomatter.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/itsuseless.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/cantsave.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/knewit.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/tired.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/haha.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/SG0_EV001a.png
+loading background mayuri ch0d from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/BGf.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/BGf.png
+loading background mayuri ch0e from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/BGg.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/mayuri/BGg.png
+loading background ch0 ev3 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/SG0_EV001a.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/dontdie.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/killedher.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/makisu.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/killednoway.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/onemore.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/leavealone.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/whatru.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/billions.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/whocares.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/theresnowayy.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/SG0_EV001a.png
+loading background suzuha ch0c from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGh.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/slapsense.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGh.png
+loading background suzuha ch0d from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGj.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/youcant.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/cantbear.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGj.png
+loading background suzuha ch0e from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGk.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/ifhedoesnt.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGk.png
+loading background suzuha ch0d from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGj.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/why-.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/toomuchbear.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGj.png
+loading background suzuha ch0e from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGk.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/observe.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGk.png
+loading background suzuha ch0d from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGj.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/didntwantthat.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/ithink.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/world.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGj.png
+loading background suzuha ch0e from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGk.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/steins.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGk.png
+loading background suzuha ch0f from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGl.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/u.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGl.png
+loading background suzuha ch0g from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGm.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/howfeel.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGm.png
+loading background suzuha ch0h from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGn.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/36.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGn.png
+loading background suzuha ch0j from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGo.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/u.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/chars/suzuha/BGo.png
+loading background ch0 ev3 from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/SG0_EV001a.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/okarin.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/atfirst.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/344.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/oneway.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/suzuha/remember.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/u.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/SG0_EV001a.png
+loading background ch0 ev3a from umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/SG0_EV001b.png
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/okarinn.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/hey.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/nopush.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/oktocry.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/mayuri/mayushii.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch0-prologue/chars/okabe/uu.wav (wav) at 1
+stopping ogg at 0
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch0-prologue/bg/SG0_EV001b.png
+loading background ch1 tr from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/abszero.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/abszero.png
+loading background ch1 tr0 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr0.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr0.png
+loading background ch1 tr1 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr1.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr1.png
+loading background ch1 tr2 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr2.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr2.png
+loading background ch1 tr3 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr3.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr3.png
+loading background ch1 tr4 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr4.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr4.png
+loading background ch1 tr5 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr5.png
+starting game/sounds/chapters/ch1-abszero/bgm212.ogg (ogg) at 0
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/tr5.png
+loading background ch1 bg from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+stopping ogg at 0
+starting game/sounds/chapters/ch1-abszero/ptsd.ogg (ogg) at 0
+loading background ch1 bg0 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG0.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG0.png
+loading background ch1 bg from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/okabe.wav (wav) at 1
+stopping ogg at 0
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/excuse.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/wat.wav (wav) at 1
+starting game/sounds/chapters/ch1-abszero/bgm206.ogg (ogg) at 0
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/0.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/soz.wav (wav) at 1
+Clearing ch1 (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/1.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/atf.wav (wav) at 1
+Clearing ch1a (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/0.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/angry.wav (wav) at 1
+Clearing ch1 (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/3.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/1sttime.wav (wav) at 1
+Clearing ch1c (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/2.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/4th.wav (wav) at 1
+Clearing ch1b (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/3.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+loading background maho ch1d from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/4.png
+loading character ch1 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/FG.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/huh.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/viktor.wav (wav) at 1
+Clearing fg (LPE ONLY)
+loading character ch1 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/FG1.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/thatsit.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/thiscard.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/4.png
+loading background maho ch1f from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/6.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/3times.wav (wav) at 1
+loading character ch1 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/FG1.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/6.png
+loading background maho ch1e from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+loading character ch1 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/FG1.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+loading background ch1 bg from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/7.png
+Clearing ch1g (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/8.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/wha.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/maho.wav (wav) at 1
+Clearing ch1h (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/10.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/myname.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/ms.wav (wav) at 1
+Clearing ch1k (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/9.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/middleschool.wav (wav) at 1
+Clearing ch1j (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/11.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/true.wav (wav) at 1
+Clearing ch1l (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/12.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/ask.wav (wav) at 1
+Clearing ch1m (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/13.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/sure.wav (wav) at 1
+Clearing ch1n (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/14.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/shocked.wav (wav) at 1
+Clearing ch1o (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/13.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/guess.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/age.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/lolz.wav (wav) at 1
+Clearing ch1n (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/14.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+loading background maho ch1p from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/15.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/closely.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/15.png
+loading background maho ch1r from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/16.png
+loading character ch1 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/FG0.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/21.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/16.png
+loading background maho ch1p from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/15.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/adult.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/15.png
+loading background maho ch1e from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/u.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+loading background maho ch1f from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/6.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/look.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/6.png
+loading background maho ch1e from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/soz.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+loading background ch1 bg from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/world.wav (wav) at 1
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/13.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+loading background maho ch1e from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/ye.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+loading background maho ch1f from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/6.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/wdym.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/6.png
+loading background maho ch1e from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/no.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/5.png
+loading background ch1 bg from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+loading background ch1 bg0 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG0.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG0.png
+loading background ch1 bg from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/lecture.wav (wav) at 1
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/0.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/nolecture.wav (wav) at 1
+Clearing ch1 (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/1.png
+Clearing ch1a (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/0.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/ai.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/thetime.wav (wav) at 1
+Clearing ch1 (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/1.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/will.wav (wav) at 1
+Clearing ch1a (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/0.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/staffroom.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/thx.wav (wav) at 1
+Clearing ch1 (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/1.png
+Clearing ch1a (LPE ONLY)
+loading character maho from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/0.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/zamn.wav (wav) at 1
+stopping ogg at 0
+starting game/sounds/chapters/ch1-abszero/bgm210.ogg (ogg) at 0
+loading character moeka from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/moeka/0.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/moeka/a.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/moeka/u.wav (wav) at 1
+Clearing ch1 (LPE ONLY)
+loading character moeka from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/moeka/1.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+loading background maho ch1s from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/17.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/moeka/um.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/iv.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/moeka/interview.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/leskinen.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/moeka/oke.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/maho/ifuwant.wav (wav) at 1
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/moeka/ty.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/maho/17.png
+loading background ch1 bg from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/kiryu.wav (wav) at 1
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG.png
+loading background ch1 bg1 from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG1.png
+self.media.background to clear (LPE ONLY) = umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/bg/BG1.png
+loading character moeka from umd0:/games/sg0-renpsp/game/images/chapters/ch1-abszero/chars/moeka/2.png
+stopping wav at 1
+starting game/sounds/chapters/ch1-abszero/chars/okabe/again.wav (wav) at 1
+stopping ogg at 0
+opening for write umd0:/games/sg0-renpsp/saves/persistent
